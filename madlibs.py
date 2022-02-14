@@ -1,0 +1,6 @@
+color = input('Type a color : ')
+adjective = input('Type an adjective : ')
+geometrical_shape = input('Type a geometrical shape : ')
+print('\nFlowers are ' + color + '.')
+print('You are ' + adjective + '.')
+print('The clock is ' + geometrical_shape + '.')
